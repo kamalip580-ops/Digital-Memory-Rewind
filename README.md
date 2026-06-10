@@ -18,9 +18,13 @@ A Python-based application that stores and retrieves memories digitally.
 2. Run:
    python gui.py
 
-## Project Screenshot
+## Project Screenshots
 
-![Project Screenshot](screen shot(108).png)   
+### Home Screen
+![Home Screen](Screenshot%20(107).png)
+
+### Memory View
+![Memory View](Screenshot%20(108).png)  
 
 ## Author
 Kamali P
